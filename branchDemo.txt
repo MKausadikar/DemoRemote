@@ -5,3 +5,5 @@ Second Change
 Third Change in Branch
 
 Fourth Change in Branch
+
+Another change after merging
