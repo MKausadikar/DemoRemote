@@ -1,5 +1,5 @@
+Something again changed..
+
 Welcome to Git
 
-Something changed..
-
-Something again changed..
+New change
